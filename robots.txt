@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lolpdv.bokupaybymobile.com/sitemap.xml
